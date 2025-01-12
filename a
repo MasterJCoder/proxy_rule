@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open iOS App</title>
+</head>
+<body>
+    <!-- 替换 URL Scheme 为目标应用的 -->
+    <a href="ths://stock/detail/00700.HK">打开同花顺查看腾讯控股</a>
+</body>
+</html>
